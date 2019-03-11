@@ -3,7 +3,7 @@ This GitHub repository contains code samples that demonstrate how to use Microso
 
 Note that certain features like In-Memory OLTP are edition specific for SQL Server and would be possible to implement if the edition which supports that feature is being used to run the sample. 
 
-## Releases in this repository
+### Releases in this repository
 
 Releases allow you to conveniently download sample databases or applications without the need to build them from source code. This SQL Server samples repository has the following notable releases:
 
